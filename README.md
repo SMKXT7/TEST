@@ -46,9 +46,6 @@ Aku SMKXT7 Full Stack Web Pengembang . Saya Menghabiskan sebagian besar waktu co
 <br />
 
 
-#### Kunjungan Profil
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
 <details>
 <summary>
