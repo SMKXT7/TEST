@@ -11,7 +11,6 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 - 🔭 I’m currently working at @Toptal
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
@@ -90,8 +89,3 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 </details>
 
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
