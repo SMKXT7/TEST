@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I'm+17+years+old;I+from+Carapicuíba,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&width=435&lines=%F0%9D%91%AF%F0%9D%91%A8%F0%9D%91%B3%F0%9D%91%B3%F0%9D%91%B6!..+%F0%9D%91%B5%F0%9D%91%A8%F0%9D%91%B4%F0%9D%91%A8+%F0%9D%91%BA%F0%9D%91%A8%F0%9D%92%80%F0%9D%91%A8+%F0%9D%91%BA%F0%9D%91%B4%F0%9D%91%B2%F0%9D%91%BF%F0%9D%91%BB%F0%9D%9F%95;%F0%9D%91%BA%F0%9D%91%A8%F0%9D%92%80%F0%9D%91%A8+%F0%9D%91%A9%F0%9D%91%AC%F0%9D%91%B9%F0%9D%91%BC%F0%9D%91%B4%F0%9D%91%BC%F0%9D%91%B9+%F0%9D%9F%8F%F0%9D%9F%94+%F0%9D%91%BB%F0%9D%91%AF;%F0%9D%91%B5%F0%9D%91%AE%F0%9D%91%B6%F0%9D%91%AB%F0%9D%91%B0%F0%9D%91%B5%F0%9D%91%AE+%F0%9D%91%A8%F0%9D%91%AB%F0%9D%91%A8%F0%9D%91%B3%F0%9D%91%A8%F0%9D%91%AF+%F0%9D%91%AF%F0%9D%91%B6%F0%9D%91%A9%F0%9D%92%80%F0%9D%91%B2%F0%9D%91%BC+%3A%5D)](https://git.io/typing-svg)
 
 
 <div align="center">  
